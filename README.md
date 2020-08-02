@@ -34,8 +34,13 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> 
 </p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nestordevs&show_icons=true&theme=radical" alt="nestordevs" />
+
+## My github Stats!!
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nestordevs&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nestordevs&hide=css,html&theme=tokyonight">
 </p>
 
