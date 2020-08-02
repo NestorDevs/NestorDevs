@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nestor Marquez</h1>
-<h3 align="center">A passionate flutter Developer and Dart</h3>
+<h3 align="center">A passionate Flutter Developer and Dart</h3>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white&logoWidth=20"/>
