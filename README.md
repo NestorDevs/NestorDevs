@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=nestordevs" alt="nestordevs" />
 </p>
 
-- 🔭 I’m currently working on [Personal Projects](https://www.youtube.com/channel/UCHPLB74WSMMXs-tdC8G6m2A)
+- 🔭 I’m currently working on <a href="https://www.youtube.com/channel/UCHPLB74WSMMXs-tdC8G6m2A" target="blank"> [Personal Projects](https://www.youtube.com/channel/UCHPLB74WSMMXs-tdC8G6m2A)</a>
 
 - 🌱 I’m currently learning **Flutter, Dart, Management State**
 
