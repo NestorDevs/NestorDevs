@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nestor Marquez</h1>
 <h3 align="center">A passionate flutter Developer and Dart</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nestordevs" alt="nestordevs" /> </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Dart-1F4B6E?style=flat&logo=dart&logoColor=white&logoWidth=20"/>
+  <img src="https://komarev.com/ghpvc/?username=nestordevs" alt="nestordevs" />
+</p>
 
 - 🔭 I’m currently working on [Personal Projects](https://www.youtube.com/channel/UCHPLB74WSMMXs-tdC8G6m2A)
 
@@ -24,7 +28,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> 
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nestordevs&show_icons=true&theme=radical" alt="nestordevs" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nestordevs&show_icons=true&theme=radical" alt="nestordevs" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nestordevs&hide=css,html&theme=tokyonight">
 </p>
 
 <p align="center">
