@@ -4,6 +4,13 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white&logoWidth=20"/>
   <img src="https://img.shields.io/badge/Dart-1F4B6E?style=flat&logo=dart&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Node JS-339933?style=flat&logo=node.js&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Mongo DB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white&logoWidth=20"/>
   <img src="https://komarev.com/ghpvc/?username=nestordevs" alt="nestordevs" />
 </p>
 
