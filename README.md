@@ -46,8 +46,8 @@
   <a href="https://github.com/NestorDevs/pizza_delivery_API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestordevs&repo=pizza_delivery_API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-  <a href="https://github.com/NestorDevs/NestJS-Angular-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestordevs&repo=NestJS-Angular-Flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://github.com/NestorDevs/pizza_delivery_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestordevs&repo=pizza_delivery_app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
 
